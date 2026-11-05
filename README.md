@@ -13,8 +13,8 @@ Use **64-bit Python 3.12, 3.13, or 3.14** and a webcam. The pinned NumPy version
 Clone this repository and open the folder containing `app.py`:
 
 ```bash
-git clone https://github.com/AshokRana25/LocalData.git
-cd LocalData
+git clone https://github.com/AshokRana25/AI-Virtual-Steering-Wheel.git
+cd AI-Virtual-Steering-Wheel
 ```
 
 Windows PowerShell:

@@ -77,6 +77,6 @@ For the original development copy only, run from `GamingSteering-main`:
 
 Remove `--preview` to enable keyboard controls.
 
-Fresh clones of [AshokRana25/LocalData](https://github.com/AshokRana25/LocalData)
+Fresh clones of [AshokRana25/AI-Virtual-Steering-Wheel](https://github.com/AshokRana25/AI-Virtual-Steering-Wheel)
 should follow the README to create `.venv` and download the model. The local
 `.venv313` environment, downloaded wheels, and backups are not committed.
